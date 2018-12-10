@@ -1,0 +1,5 @@
+__pycache__/
+cache/
+sound/
+token.json
+.DS_Store
